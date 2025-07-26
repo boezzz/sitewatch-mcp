@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Node.js
+node_modules/
+
 # C extensions
 *.so
 
@@ -140,6 +143,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+venv_new/
 ENV/
 env.bak/
 venv.bak/
